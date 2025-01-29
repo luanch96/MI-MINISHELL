@@ -1,4 +1,5 @@
-# MI-MINISHELL
+# MINISHELL.2
+
 
 Proyecto Minishell de 42. 
 
